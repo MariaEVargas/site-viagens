@@ -1,0 +1,10 @@
+.content{
+    background: #FF69B4;
+    font-family: Arial, Georgia, sans-serif;
+    
+
+    #title, .subtitle{
+        color: rgb(17, 17, 119);
+    
+    }
+}
